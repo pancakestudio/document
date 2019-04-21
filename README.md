@@ -1,4 +1,4 @@
-# document
+# Document
 
 This repository contains all the document made during the Project process.
 
